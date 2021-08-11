@@ -1,5 +1,5 @@
 # National Youth Sports Nevada Re-Design 
-#####([Link to project site](https://mrcmyk12.github.io/NYSNevadaRedesign/))
+([Link to project site](https://mrcmyk12.github.io/NYSNevadaRedesign/))
 
 This is a re-design of an existing site **[National Youth Sports Nevada](https://nysnevada.com/)**.  This project was built using:
 
@@ -7,17 +7,15 @@ This is a re-design of an existing site **[National Youth Sports Nevada](https:/
  
  ---
 
-## Motivation for Re-Design
+ ## Features
 
-This site was in desperate need of a re-design.  The existing site had **broken links**, **inconsistent layout**, and **poor usabilty** resulting in a below average user experience.
+ * Forms to fill out for login and creating accounts
+ * Forms to sign up for the various leagues
+ * Cards explaining various league rules
+ 
+ ---
 
-![Existing Website](public/assets/images/existingnysnpage1.png)
-
-![Existing Website](public/assets/images/existingnysnpage.png)
-
----
-
-## Design Process
+ ## Design Process
 
 Original layout was designed first and paper, and then the mock-ups were created using **Figma**:
 
@@ -29,12 +27,13 @@ Original layout was designed first and paper, and then the mock-ups were created
 
 ---
 
-##Features
+## Motivation for Re-Design
 
- * Forms to fill out for login and creating accounts
- * Forms to sign up for the various leagues
- * Cards explaining various league rules
- 
+This site was in desperate need of a re-design.  The existing site had **broken links**, **inconsistent layout**, and **poor usabilty** resulting in a below average user experience.
+
+
+
+
 
 
 
