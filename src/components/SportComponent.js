@@ -38,7 +38,7 @@ class Sport extends Component {
             return(
                 
      
-                        <div className='col'>
+                        <div className='col-sm-12 col-md'>
                             <Link to={`/${sportscard.name}`}>
                             <Card key={sportscard.id} className='sport_card mb-2 m-1'>
                                     <CardImg className='sport_card_image'src= {sportscard.image}></CardImg>

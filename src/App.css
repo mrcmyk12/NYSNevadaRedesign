@@ -1,194 +1,193 @@
-
-
-
 .App {
-  text-align: center;
+	text-align: center;
 }
 
-.nav-listing{
-  font-family: Montserrat;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 20px;
-  line-height: 38px;
-  color: #9E3039;
-  text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
-
+.nav-listing {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 38px;
+	color: #9e3039;
+	text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
 }
-.register_button{
-  font-family: Montserrat;
-  font-weight: 700;
-  background: #9E3039;
-  border: 1px solid #9E3039;
-  box-sizing: border-box;
-  box-shadow: 7px 8px 4px 2px rgba(0, 0, 0, 0.25);
-  border-radius: 7px;
-
+.register_button {
+	font-family: Montserrat;
+	font-weight: 700;
+	background: #9e3039;
+	border: 1px solid #9e3039;
+	box-sizing: border-box;
+	box-shadow: 7px 8px 4px 2px rgba(0, 0, 0, 0.25);
+	border-radius: 7px;
 }
-.login_button{
-  font-family: Montserrat;
-  font-weight: 700;
-  color: #9E3039;
-  background: #FFFFFF;
-  border: 2px solid white;
-  box-sizing: border-box;
-  box-shadow: 7px 8px 4px 2px rgba(0, 0, 0, 0.25);
-  border-radius: 7px;
-  flex: auto;
+.login_button {
+	font-family: Montserrat;
+	font-weight: 700;
+	color: #9e3039;
+	background: #ffffff;
+	border: 2px solid white;
+	box-sizing: border-box;
+	box-shadow: 7px 8px 4px 2px rgba(0, 0, 0, 0.25);
+	border-radius: 7px;
+	flex: auto;
 }
-.home_image{
-position: absolute;
-width: 339px;
-height: 484px;
-filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
-border-radius: 80px;
+.home_image {
+	position: absolute;
+	width: 339px;
+	height: 484px;
+	filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
+	border-radius: 80px;
 }
 
-.welcome_paragraph{
-font-family: Hind Madurai;
-font-style: normal;
-font-weight: normal;
-color: #9E3039;
+.welcome_paragraph {
+	font-family: Hind Madurai;
+	font-style: normal;
+	font-weight: normal;
+	color: #9e3039;
 }
 
-.card_image{
-  position: initial;
-  width: 250px;
-  height: 130px;
+.card_image {
+	position: initial;
+	width: 250px;
+	height: 130px;
 }
 
-.home_card{
-  filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
-border-radius: 41px;
+.home_card {
+	filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
+	border-radius: 41px;
 }
 
-.site-footer{
-position: absolute;
-width: 100%;
-background: #9E3039;
+.site-footer {
+	position: absolute;
+	width: 100%;
+	background: #9e3039;
 }
 
-.footer_contact{
-  font-family: Hind Madurai;
-  color: white;
+.footer_contact {
+	font-family: Hind Madurai;
+	color: white;
 }
 
-.footer_contact2{
-  font-family: Hind Madurai;
-  color: white;
-  font-weight: 700;
-  font-size:18px;
+.footer_contact2 {
+	font-family: Hind Madurai;
+	color: white;
+	font-weight: 700;
+	font-size: 18px;
 }
 
-.card_title{
-  font-family: Montserrat;
-  color: #9E3039;
-  font-weight: 700;
-  font-size: 16px;  
-  filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
+.card_title {
+	font-family: Montserrat;
+	color: #9e3039;
+	font-weight: 700;
+	font-size: 16px;
+	filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
 }
 
-.sport_card{
-  filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
-
+.sport_card {
+	filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
 }
 
-.sport_button{
-  background-color: #9E3039;
-  font-family: Montserrat;
+.sport_button {
+	background-color: #9e3039;
+	font-family: Montserrat;
 }
 
-.sport_card_title{
-  color:#9E3039;
-  font-family: Montserrat;
-  font-weight: 700;
-  text-align: initial;
+.sport_card_title {
+	color: #9e3039;
+	font-family: Montserrat;
+	font-weight: 700;
+	text-align: initial;
 }
 
-.rules_title{
-  font-family: Montserrat;
-  color: #9E3039;
-  text-align: center;
-  font-weight: bold;
+.rules_title {
+	font-family: Montserrat;
+	color: #9e3039;
+	text-align: center;
+	font-weight: bold;
 }
-.rules_paragraph{
-  font-family: Hind Madurai;
-  text-align: initial;
+.rules_paragraph {
+	font-family: Hind Madurai;
+	text-align: initial;
 }
-.rules_list{
-  font-family: Hind Madurai;
-  text-align: center;
-  list-style-type: none; 
-}
-
-.body_description{
-  font-family: Hind Madurai;
-  z-index: -1;
+.rules_list {
+	font-family: Hind Madurai;
+	text-align: center;
+	list-style-type: none;
 }
 
-.form_title{
-  color: #9E3039;
-  font-family: Montserrat;
-  text-align: initial;
+.body_description {
+	font-family: Hind Madurai;
+	z-index: -1;
 }
 
-.cancel_button{
-  font-family: Montserrat;
-  font-weight: 700;
-  background: grey;
-  border: 1px solid white;
-  box-sizing: border-box;
-  box-shadow: 7px 8px 4px 2px rgba(0, 0, 0, 0.25);
-  border-radius: 7px;
-}
-.submit_button{
-  font-family: Montserrat;
-  font-weight: 700;
-  background: #9E3039;
-  border: 1px solid #9E3039;
-  box-sizing: border-box;
-  box-shadow: 7px 8px 4px 2px rgba(0, 0, 0, 0.25);
-  border-radius: 7px;
- 
+.form_title {
+	color: #9e3039;
+	font-family: Montserrat;
+	text-align: initial;
 }
 
-.schedule_card{
-  height: 300px;
-  filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25)); 
+.cancel_button {
+	font-family: Montserrat;
+	font-weight: 700;
+	background: grey;
+	border: 1px solid white;
+	box-sizing: border-box;
+	box-shadow: 7px 8px 4px 2px rgba(0, 0, 0, 0.25);
+	border-radius: 7px;
+}
+.submit_button {
+	font-family: Montserrat;
+	font-weight: 700;
+	background: #9e3039;
+	border: 1px solid #9e3039;
+	box-sizing: border-box;
+	box-shadow: 7px 8px 4px 2px rgba(0, 0, 0, 0.25);
+	border-radius: 7px;
 }
 
-.schedule_card_title{
-  color:#9E3039;
-  font-family: Montserrat;
-  font-weight: 700;
+.schedule_card {
+	height: 300px;
+	filter: drop-shadow(7px 8px 4px rgba(0, 0, 0, 0.25));
 }
 
-.calendar_day_text{
-  font-size: 10px;
-  font-family: Hind Madurai;
-  color: black;
-  font-weight: 600;
+.schedule_card_title {
+	color: #9e3039;
+	font-family: Montserrat;
+	font-weight: 700;
 }
 
-.center_text{
-  justify-content: center;
+.calendar_day_text {
+	font-size: 10px;
+	font-family: Hind Madurai;
+	color: black;
+	font-weight: 600;
 }
 
-.uniform_images{
-  width: 250px;
-  z-index: -1;
+.center_text {
+	justify-content: center;
 }
 
-.uniform_price{
-  color:#9E3039;
-  font-family: Montserrat;
-  font-weight: 700;
-  z-index: 100;
+.uniform_images {
+	width: 250px;
+	z-index: -1;
 }
 
-.carousel_title{
-  font-family: Hind Madurai;
-  color: white;
-  text-align: center;
-  font-weight: bold;
+.uniform_price {
+	color: #9e3039;
+	font-family: Montserrat;
+	font-weight: 700;
+	z-index: 100;
+}
+
+.carousel_title {
+	font-family: Hind Madurai;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 768px) {
+	footer {
+		display: none;
+	}
 }
